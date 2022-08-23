@@ -7,6 +7,10 @@ run.sh ------ 运行脚本
 
 IPCC20223215.pptx ------ 技术报告ppt
 
+技术报告.docx
+
+性能优化过程记录表.xlsx
+
 IPCC20223215-福州大学.tar
 
 ## Attention
