@@ -1,5 +1,5 @@
-# 优化记录
-## Introduction
+## 优化记录
+### Introduction
 
 pivot.c ------  优化代码 
 
@@ -13,6 +13,6 @@ IPCC20223215.pptx ------ 技术报告ppt
 
 IPCC20223215-福州大学.tar
 
-## Attention
+### Attention
 
 代码的运行、调试及优化均在北京超级云计算中心（https://cloud.blsc.cn/） 进行
