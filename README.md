@@ -6,11 +6,13 @@
 
 大数据泛构支撑点选择性能上限的高效计算 并行优化
 
-pivot.tar ------ 源文件
+pivot ------ 源文件
 
 pivot.c ------ 源代码
 
 uniformvector-4dim-1h.zip ------ 补充算例（Case2）
+
+pivot.tar
 
 ACM-China IPCC2022 初赛 优化任务.pdf
 
