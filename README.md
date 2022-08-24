@@ -8,6 +8,8 @@
 
 pivot.tar ------ 源文件
 
+pivot.c ------ 源代码
+
 uniformvector-4dim-1h.zip ------ 补充算例（Case2）
 
 ACM-China IPCC2022 初赛 优化任务.pdf
