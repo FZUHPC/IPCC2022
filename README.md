@@ -19,3 +19,5 @@ ACM-China IPCC2022 初赛 优化任务.pdf
 ### Attention
 
 运行平台： 北京超级云计算中心 (https://cloud.blsc.cn/)
+
+优化过程见 **优化记录** 分支
